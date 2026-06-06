@@ -1,4 +1,23 @@
 h1{
-    color: aqua;
+    color: wheat;
     text-align: center;
+    font-family: "Comic Sans MS";
+}
+
+#codeEditor{
+    color: wheat ;
+    font-family: "Comic Sans MS";
+    text-align: left;
+    background-color: dimgrey;
+}
+
+
+#runBtn{
+    color: wheat;
+    background-color: dimgrey;
+}
+
+body{
+    background-color: dimgrey;
+
 }
